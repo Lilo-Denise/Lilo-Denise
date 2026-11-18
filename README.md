@@ -10,9 +10,9 @@ Before that, I built new international markets from 0 to 1, ran business lines w
 
 I'm an operator, not a software engineer. I use AI coding tools to turn real workflows into working systems:
 
-- **Multi-agent job-search system** (Claude Code): role-based agents for job discovery, CV tailoring, networking and interview prep, each with custom skills. Kept private because it holds personal data.
+- **[Multi-agent job-search system](https://github.com/Lilo-Denise/ai-job-search-agents)** (Claude Code): role-based agents for job discovery, CV tailoring, networking and interview prep, each with custom skills. The working system holds personal data, so this repo is a sanitized showcase with examples.
 - **Event-operations agents** (Grok): role-based agents with custom skills that source venues, catering and vendors for CREATANT events.
-- **AI knowledge wiki** (Obsidian + Claude).
+- **[AI knowledge wiki](https://github.com/Lilo-Denise/obsidian-ai-knowledge-vault)** (Obsidian + Claude): a vault template where Claude helps capture, sort and connect notes.
 - **[Personal AI Teaching Assistant](https://github.com/Lilo-Denise/Personal-AI-Teaching-Assistant)**: a RAG assistant that answers questions from lecture slides and cites the source page.
 - **[The Omyca Award](https://omyca-award.pages.dev)**: a browser game built as one HTML file and deployed on Cloudflare Pages.
 
